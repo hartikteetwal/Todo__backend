@@ -1,0 +1,17 @@
+[
+    {
+        "id":1,
+        "name":"hartik",
+        "profile":"developer"
+    },
+    {
+    "id":2,
+    "name":"jadu",
+    "profile":"seo"
+},
+{ 
+    "id":3,
+    "name":"baba",
+    "profile":"web developer"
+}
+]
